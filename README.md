@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @danjayy
-- 👀 I’m interested in Web Dev
-- 🌱 I’m new on github & currently learning Front end development (HTML5, CSS3)
-- 💞️ I’m looking to BUILD exciting, responsive, websites with you!
+- 👀 I’m interested in Firmware development
+- 🦾 I have intermediate level skill in front end web development (mainly HTML/CSS)
+- 🌱 I’m currently learning Python, C, C++, and embedded C
+- 💞️ I’m looking to BUILD exciting, innovative firmwares with you!
 - 📫 Reach me on Twitter @danjumaedeborah 
 - Check out my LinkedIn profile: linkedin.com/in/deborahdanjuma
 
